@@ -1,13 +1,11 @@
 # Telegram Leecher Bot
-## Update :  Fixed Heroku Deployment Problem 🙂 (OR [solution here](#item-could-not-be-created-error-on-heroku-and-how-to-overcome-it))
-### Note : If want some new features.. [DM me here](https://t.telegram.ind.in/gopalsaraf) OR [Join here and ask](https://t.telegram.ind.in/torrentleechgs).
-<br>
+
+
 
 
 <img width=400px height=400px src="https://images.unsplash.com/photo-1562907550-096d3bf9b25c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=735&q=80" alt="Bot logo"></a>
 
-<h2>Join <a href=https://t.telegram.ind.in/torrentleechgs>TorrentLeech Group</a> for demo!</h2>
-<p align="left"><a href="https://t.telegram.ind.in/torrentleechgs"><img src="https://img.shields.io/badge/Telegram-Join%20TorrentLeech%20Group-blue.svg?logo=telegram"></a></p>
+
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
@@ -37,7 +35,7 @@
 * `API_HASH`: Get these two values from [my.telegram.org/apps](https://my.telegram.org/apps).
   * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://telegram.dog/UseTGXBot) to get the IDs.
 
-* `AUTH_CHANNEL`: Create a Super Group in Telegram, add `@GoogleIMGBot` to the group, and send /id in the chat, to get this value.
+* `AUTH_CHANNEL`: Create a Super Group in Telegram, add `@KurumiAlphaBot` to the group, and send /id in the chat, to get this value.
 
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
