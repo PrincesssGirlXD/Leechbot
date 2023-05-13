@@ -46,9 +46,9 @@ for imp in ["TG_BOT_TOKEN", "APP_ID", "API_HASH", "OWNER_ID", "AUTH_CHANNEL"]:
 
 # The Telegram API things
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-APP_ID = int(os.environ.get("APP_ID", ""))
+APP_ID = os.environ.get("APP_ID", )
 API_HASH = os.environ.get("API_HASH", "")
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = os.environ.get("OWNER_ID", )
 
 # Get these values from my.telegram.org
 # to store the channel ID who are authorized to use the bot
